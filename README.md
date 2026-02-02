@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Chimereya/chimereya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 my name is Chimereya | Backend & AI Engineer ⚙️🤖
 
-Here are some ideas to get you started:
+**Architecting scalable backends and autonomous AI systems.** I specialize in high-performance Python services, agentic workflows, and production-grade AI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Core Backend** `Python` | `FastAPI` | `Django/DRF` | `Flask` | `PostgreSQL` | `Redis` | `Docker`
+
+**AI & Intelligence** `LangChain/LangGraph` | `CrewAI` | `PyTorch` | `Vector DBs (Chroma/Pinecone)` | `RAG`
+
+**Data & Analytics** `Pandas` | `NumPy` | `Scikit-learn` | `Spark`
+
+---
+
+### 🤖 Focus Areas
+* **Agentic Workflows:** Developing multi-agent systems with tool-use capabilities and long-term memory.
+* **Scalable APIs:** Designing robust, asynchronous microservices for high-traffic environments.
+* **RAG Architecture:** Implementing Retrieval-Augmented Generation to ground LLMs in private data.
+
+
