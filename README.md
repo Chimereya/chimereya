@@ -2,7 +2,6 @@
 
 I am a **Developer of Softwares** passionate about creating impactful software and reliable systems .
 
----
 
 ### 🛠 Tech Stack
 
@@ -23,17 +22,9 @@ I am a **Developer of Softwares** passionate about creating impactful software a
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
----
 
 
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent" alt="Langs" height="150" />
-</p>
-
----
 
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimereya-ukonu/)
